@@ -8,8 +8,7 @@
 
 
 ### Certifications 🎖️
-<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px"  alt="CSS Certificate" />
-
+<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" />
 <img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" /> 
 
 
