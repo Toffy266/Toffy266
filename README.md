@@ -8,9 +8,12 @@
 
 
 ### Certifications 🎖️
-<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" style="padding:20px" />
-<img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" style="padding:20px" /> 
-
+<div>
+<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" />
+</div>
+<div>
+<img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" /> 
+</div>
 
 ### Programming Languages 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toffy266&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
