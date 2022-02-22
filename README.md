@@ -1,6 +1,6 @@
 ### Hi, I’m Busarakham Leadpattanchat 👋
 ![](https://komarev.com/ghpvc/?username=Toffy2666&color=red)
-<img src="https://i.imgur.com/d1YLO6N.png" alt="Welcome" />
+<img src="https://i.imgur.com/V21o7vV.png" alt="Welcome" />
 
 - 👀 I’m interested in coding.
 - 🌱 I'm studying Computer Science, Faculty of Science at Srinakharinwirot University.
@@ -8,9 +8,8 @@
 
 
 ### Certifications 🎖️
-<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" />
-<img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" /> 
-
+<img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" style="padding:20px" />
+<img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" style="padding:20px" /> 
 
 
 ### Programming Languages 🚀
