@@ -1,6 +1,8 @@
-<img src="https://magazine.achieve3000.com/assets/2021/08/welcome-to-the-beginning-title-01.png" alt="Welcome" width="90%" align="center" />
+### Hi, I’m Busarakham Leadpattanchat 👋
+![](https://komarev.com/ghpvc/?username=Toffy2666&color=red)
+<img src="https://sv1.picz.in.th/images/2022/02/22/rggfRR.png" alt="Welcome" border="0" />
 
-- 👋 Hi, I’m Busarakham Leadpattanchat.
+
 - 👀 I’m interested in coding.
 - 🌱 I'm studying Computer Science, Faculty of Science at Srinakharinwirot University.
 
