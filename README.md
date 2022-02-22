@@ -10,8 +10,9 @@
 
 
 ### Certifications 🎖️
-<img src="https://user-images.githubusercontent.com/76203876/155095926-ea42a853-3866-4e6d-8f6d-4ab95a067413.png" alt="Welcome" />
-<img src="https://user-images.githubusercontent.com/76203876/155095926-ea42a853-3866-4e6d-8f6d-4ab95a067413.png" alt="Welcome" />
+<img src="https://sv1.picz.in.th/images/2022/02/22/rgq91v.png" align="left" width="300px"  alt="CSS Certificate" />
+<img src="https://sv1.picz.in.th/images/2022/02/22/rgq91v.png" align="left" width="300px"  alt="CSS Certificate" />
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toffy266&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
