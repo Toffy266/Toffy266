@@ -12,7 +12,7 @@
 <img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" /> 
 
 ### Programming Languages 🚀
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toffy266&layout=compact&theme=radical&line_height=40&hide=css"/> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toffy266&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Toffy266/Toffy266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
