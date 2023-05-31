@@ -8,7 +8,7 @@
 
 
 ### Certifications 🎖️
-<img src="https://www.hackerrank.com/certificates/b90ae441c181" align="left" width="300px" alt="Python Certificate" />
+<img src="https://imgur.com/cznDiPI" align="left" width="300px" alt="Python (Basic) Certificate" />
 <img src="https://i.imgur.com/VPC9rpk.png" align="left" width="300px" alt="CSS Certificate" />
 <img src="https://i.imgur.com/FaszgkE.png" width="300px"  alt="CSS Certificate" /> 
 
