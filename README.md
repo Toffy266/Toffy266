@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/V21o7vV.png" alt="Welcome" />
 
 - 👀 I’m interested in coding.
-- 🌱 I'm studying Computer Science, Faculty of Science at Srinakharinwirot University.
+- 🌱 I graduated from Computer Science, Faculty of Science at Srinakharinwirot University.
 - ⚡ Fun fact: I spend most of my time reading manga and watching Netfix.
 
 
