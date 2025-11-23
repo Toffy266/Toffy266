@@ -8,11 +8,25 @@
 
 
 ### Certifications 🎖️
-<img src="https://i.imgur.com/cznDiPI.jpg" align="left" width="300px" alt="Python (Basic) Certificate" />
-<img src="https://i.imgur.com/VPC9rpk.png" width="300px" alt="CSS Certificate" />
-<img src="https://i.imgur.com/FaszgkE.png" width="300px" alt="Oracle Database 12c Fundamentals Certificate" /> 
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/167371702" width="300px" alt="Gemini Certified Educator" /> 
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/cznDiPI.jpg" width="300px" alt="HackerRank Python (Basic) Certificate"/>
+    </td>
+    <td align="center">
+      <img src="https://i.imgur.com/VPC9rpk.png" width="300px" alt="HackerRank CSS Certificate"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.imgur.com/FaszgkE.png" width="300px" alt="Oracle Database 12c Fundamental Certificate"/>
+    </td>
+    <td align="center">
+      <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/167371702" width="300px" alt="Gemini Certified Educator Certificate"/>
+    </td>
+  </tr>
+</table>
+  
 ### Programming Languages 🚀
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Toffy266&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats-sigma-five)
 
